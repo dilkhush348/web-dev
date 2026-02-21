@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+    font-size: 500px;
+}
+
+h3{
+    color : white;
+}
+p{
+    color: white
+}
