@@ -65,7 +65,7 @@ class YoutubeChannel {
 
     subscriber(user) {
         this.subscribers.push(user);
-        user.update(` you have subscribed the channel.`);
+        user.update(`you have subscribed the channel.`);
     }
      
     unsubscribe(user) {
